@@ -1,3 +1,3 @@
 # Magic-Eight-Ball
 
-A small Magic Eight Ball program in Java in Spring 2025. 
+A small Magic Eight Ball program in Java. Made in Spring 2025. 
