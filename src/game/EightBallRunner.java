@@ -4,7 +4,7 @@ import java.io.FileNotFoundException;
 import game.EightBall;
 
 /**
- * Placeholder.
+ * Runs EightBall object.
  */
 public class EightBallRunner {
     public static void main (String[] args) {
